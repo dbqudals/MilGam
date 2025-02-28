@@ -72,7 +72,7 @@
 <img src="https://img.shields.io/badge/Filezilla-BF0000?style=flat&logo=filezilla&logoColor=white"/></a> 
 
 ## Architecture
-![image](https://github.com/user-attachments/assets/331e1c13-28e0-4807-b378-8e8b5c6df651)
+![image](https://github.com/user-attachments/assets/0adf8281-44e4-48d3-830b-d6216704357d)
 
 ## CV
 ![아키텍처 2](https://github.com/user-attachments/assets/22d30544-4f5c-4e00-b6da-29b250f5527d)
